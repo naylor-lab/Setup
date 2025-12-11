@@ -1,6 +1,6 @@
 cd src/install/
 
-sh install.sh
+sh network.sh
 
 cd ../
 
