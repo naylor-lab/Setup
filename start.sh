@@ -1,6 +1,8 @@
 cd src/install/
 
-sh .sh
+sh default.sh
+sh network.sh
+sh desktop.sh
 
 cd ../
 
